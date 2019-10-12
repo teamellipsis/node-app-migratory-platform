@@ -5,21 +5,24 @@ layout: default
 # Application Migratory Platform
 A Node.js based application migratory platform. Which can move, this platform specific applications and its working state between heterogeneous smart devices.
 
-#### [Android Platform](https://github.com/teamellipsis/app-migratory-platform-android)
+## Resources
+***
+- #### [Android Platform](https://github.com/teamellipsis/app-migratory-platform-android)
 
-#### [Desktop Platform](https://github.com/teamellipsis/app-migratory-platform-desktop)
+- #### [Desktop Platform](https://github.com/teamellipsis/app-migratory-platform-desktop)
 
-#### [Migratory Skeleton Application](https://github.com/teamellipsis/migratory-skeleton-app)
+- #### [Migratory Skeleton Application](https://github.com/teamellipsis/migratory-skeleton-app)
 
-#### [Demo Todo application](https://github.com/teamellipsis/demo-migratory-redux-app)
+- #### [Demo Todo application](https://github.com/teamellipsis/demo-migratory-redux-app)
 
-#### [Demo Chess game](https://github.com/teamellipsis/migratory-chess-app)
+- #### [Demo Chess game](https://github.com/teamellipsis/migratory-chess-app)
 
 ## Tabel of contents
+***
 [Introduction](./introduction.html)
 1. Getting started
 1. Motivation
-1. Prior art
+1. Resources
 1. Issues
 
 [Platform](./platform.html)
